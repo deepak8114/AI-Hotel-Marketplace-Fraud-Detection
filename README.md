@@ -141,7 +141,7 @@ For Platforms (OYO/Booking.com): Reduced fraud losses, improved trust, competiti
 │── 📁 api/                 # FastAPI deployment scripts
 │── 📁 visualization/       # Graphs, dashboards, insights
 │── 📄 requirements.txt     # All dependencies
-│── 📄 LICENSE              # MIT License
+│── 📄 LICENSE              # Apache 2.0 License
 │── 📄 README.md            # Project overview
 │── 📄 report.pdf           # Full project report (35-40 pages)
 
